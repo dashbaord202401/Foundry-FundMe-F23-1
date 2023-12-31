@@ -1,0 +1,19 @@
+[33mcommit fb479065a6e175fbea9ec3101e6195efac488b47[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Mansoor <mansoorkhanferozee@gmail.com>
+Date:   Sun Dec 31 11:01:04 2023 +0430
+
+    first repo!
+
+[33mcommit 7bfb71978761698bf8c9b683d079307b28487a76[m
+Author: Mansoor <mansoorkhanferozee@gmail.com>
+Date:   Thu Dec 14 11:29:52 2023 +0430
+
+    forge install: forge-std
+    
+    v1.7.3
+
+[33mcommit ff216c8a86e3013f4fc2541e303ab180c80c3cd6[m
+Author: Mansoor <mansoorkhanferozee@gmail.com>
+Date:   Thu Dec 14 11:24:18 2023 +0430
+
+    chore: forge init
